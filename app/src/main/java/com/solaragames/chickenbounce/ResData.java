@@ -1,8 +1,8 @@
-package com.breakbounce.gamezapp;
+package com.solaragames.chickenbounce;
 
 import android.content.Context;
 
-import static com.breakbounce.gamezapp.BuildConfig.*;
+import static com.solaragames.chickenbounce.BuildConfig.*;
 
 public class ResData {
 
