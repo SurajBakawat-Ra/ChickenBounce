@@ -5,11 +5,18 @@
         <item name="colorControlActivated">#e2a026</item>
     </style>
 
-    <!-- Custom FullScreen Theme based on AppCompat Light NoActionBar -->
+    <!-- Full screen theme -->
     <style name="BBSwitch.FullScreen" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowNoTitle">true</item>
-        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
-        <item name="colorControlActivated">#e2a026</item> <!-- Keep your custom color -->
+        <item name="colorControlActivated">#e2a026</item>
     </style>
+
+    <!-- Custom FullScreen Theme based on AppCompat Light NoActionBar -->
+<!--    <style name="BBSwitch.FullScreen" parent="Theme.AppCompat.Light.NoActionBar">-->
+<!--        <item name="android:windowFullscreen">true</item>-->
+<!--        <item name="android:windowNoTitle">true</item>-->
+<!--        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>-->
+<!--        <item name="colorControlActivated">#e2a026</item> &lt;!&ndash; Keep your custom color &ndash;&gt;-->
+<!--    </style>-->
 </resources>
